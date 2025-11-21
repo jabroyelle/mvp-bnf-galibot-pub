@@ -1,0 +1,8 @@
+spec_version: v1
+kind: knowledge_base 
+name: galica_data
+description: |
+  Books from the galica database
+documents:
+   - path: "./data/gallica/vingt_cinq_and_litterature_francaise.txt"
+     url: "https://gallica.bnf.fr/ark:/12148/bpt6k9694871t/f23.item.r=romantisme%20po%C3%A9sie%2019e"

@@ -1,0 +1,740 @@
+
+
+Article
+
+                Pascal géomètre
+            
+
+
+Par
+                        Dominique Descotes
+                    
+
+
+                        25 min de lecture
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Deux figures manuscrites, une cycloïde et une parabole, très certainement de la main de Pascal
+                                    
+Bibliothèque nationale de France
+
+
+                Agrandir
+                
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deux figures manuscrites, une cycloïde et une parabole, très certainement de la main de Pascal
+Blaise Pascal : Première lettre sur la roulette
+À la fin du mois de juin 1658, Pascal lança un défi aux « plus savants géomètres » de son temps, qui rompait de manière spectaculaire avec l’ « oubli du monde et de tout hormis Dieu » proclamé dans le Mémorial : sous couvert de l’anonymat, il institua un concours dont l’objet était de résoudre trois problèmes relatifs à la « roulette » ou « cycloïde ». Le premier consistait à déterminer l’aire et le centre de gravité d’un segment de la courbe ; le second, les volumes et centres de gravité des solides engendrés par rotation de ce segment autour de sa base et autour de l’axe de la courbe ; le troisième, les centres de gravité des demi-solides obtenus en coupant les solides précédents par un plan passant par l’axe.
+Les réponses étaient à rendre avant le 1er octobre. Faute de solutions satisfaisantes, l’instigateur anonyme du concours ferait connaître celles que lui-même avait trouvées – ce qui montrait que le concours était plutôt un défi que Pascal lançait à ses contemporains, dans les règles d’un tournoi de l’esprit. De telles joutes n’avaient rien d’exceptionnel dans l’Europe savante du 17e siècle, mais la singularité du « concours de la roulette » tient à l’anonymat sous lequel il était organisé et à l’attribution de deux récompenses plus trébuchantes que l’honneur, fixées aux montants élevés de quarante pistoles pour le premier prix et vingt pistoles pour le second – ou soixante pistoles si un seul vainqueur était désigné. Le bifeuillet imprimé en juin 1658, où sont énoncés l’objet et les conditions du concours, est le premier d’une suite d’écrits anonymes publiés sous une forme similaire jusqu’au début du mois de janvier suivant, désignés du nom générique d’ « écrits sur la roulette » : six écrits au total, faisant huit éditions en raison de la publication parallèle d’une version latine et d’une version française pour deux d’entre eux. Les trois premiers, publiés entre juin et le 9 octobre 1658, fixaient ou rappelaient les principes du concours ; les trois suivants, publiés du 10 octobre 1658 au 20 janvier 1659, retraçaient les étapes d’une « histoire de la roulette » embrassant à la fois le récit des découvertes relatives à cette courbe, la proclamation du résultat du concours et le règlement de la contestation soulevée par P. Lalouvère. Toutes les éditions de ces pièces, réservées à une diffusion privée, sont d’une très grande rareté, connues de deux à sept exemplaires selon les cas. L’exemplaire de la première pièce ici présenté appartient au très précieux recueil d’écrits mathématiques de Pascal constitué à partir de ses propres papiers et dans lequel était à l’origine inséré son exemplaire de l’Essai sur les coniques. Les deux figures manuscrites au bas de la p. 3, qui représentent une cycloïde et une parabole, sont très certainement de la main de Pascal.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+
+
+        Le format de l'image est incompatible
+    
+
+
+
+
+                        Blaise Pascal fut à la fois écrivain, mathématicien, géomètre et physicien. On connaît sa célèbre Pascaline, considérée comme la première machine à calculer mais c'est surtout la géométrie qui reste à ses yeux « le plus beau métier du monde ».
+                    
+
+
+
+
+
+
+ « Le plus beau métier du monde »
+Cas rare dans les lettres françaises, Pascal cumule des caractères que l’on croit ordinairement incompatibles. Il fut géomètre, physicien, écrivain et polémiste, et sa réputation de grand malade dissimule parfois qu’il fut aussi un chef d’entreprise et un homme d’action capable de plonger dans la clandestinité, les polices du royaume aux trousses. Mais c’est la géométrie qui reste à ses yeux « le plus beau métier du monde ». À Evangelista Torricelli, qui écrit que, seule parmi les arts libé­raux, la géométrie donne à l’esprit une force qui lui permet de surpasser les autres dans l’architecture, la navigation et la guerre, répond l’opuscule De l’esprit géométrique : cette science « se fonde sur la véritable méthode de conduire le raisonnement en toutes choses, que presque tout le monde ignore, et qu’il est si avantageux de savoir que nous voyons par expérience qu’entre esprits égaux et toutes choses pareilles, celui qui a de la géométrie l’emporte et en acquiert une vigueur toute nouvelle ».
+Car si la géométrie n’est au fond qu’« un métier », comme Pascal l’écrit à Fermat, ce serait une erreur de n’y voir qu’une science bornée. Non seulement elle fournit une base théorique aux arts mécaniques, l’archi­tecture, la perspective, la peinture, la gnomonique (art de construire des cadrans solaires) et la musique, mais Pascal est d’autant plus porté à en célébrer la fécondité qu’il y apporte lui-même un esprit que William Shea a qualifié d’« unconventional ». Par son éducation d’abord : Étienne Pascal, son père, l’a tenu loin de l’ensei­gnement scolaire des collèges. Il lui a interdit l’étude des mathématiques avant d’avoir assimilé les langues anciennes. Cette règle, qui ferait aujourd’hui crier pédagogues et parents d’élèves, est en fait fort pertinente : la connaissance du grec et du latin est à l’époque la condition indispensable d’un accès direct aux œuvres d’Archimède, Apollonius, Diophante – ces fondateurs des mathéma­tiques auprès desquels s’alimente la géométrie nouvell  –, sans passer par la contrainte des traductions françaises d’une fidélité douteuse. Par le milieu qu’il a fréquenté ensuite. Blaise a assisté aux réunions de l’aca­démie du père Mersenne, puis de celle de Le Pailleur. Ces groupes indépendants accordent beaucoup à la libre initiative de leurs membres. Pascal y fréquente des esprits originaux : le minime Marin Mersenne, qui anime au cœur d’un vaste réseau international une académie dont il dit fièrement qu’elle est « toute mathé­matique », Gilles Personne de Roberval, professeur au collège royal de France, connu pour conserver in petto un nombre considérable d’inventions mathéma­tiques, Girard Desargues, inventeur d’une nouvelle géométrie projective, sans compter des correspondants comme René Descartes et Pierre de Fermat.
+
+
+
+
+
+
+
+                                Agrandir
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portrait de Pierre de Fermat
+L’édition posthume des œuvres mathématiques du magistrat toulousain Pierre de Fermat (1601 ? -1665) comprend la publication de quatre lettres échangées avec Pascal durant l’été 1654. L’une d’entre elles, datée du 29 juillet, révèle que la question des « partis » avait été soumise à Pascal par Méré, et que d’autres y ont également travaillé, notamment Roberval. Mais Fermat fut le principal interlocuteur de Pascal, et celui qui, avec lui, a contribué le plus fortement à l’invention du calcul des probabilités. C’est à ce moment capital dans l’histoire des mathématiques que fait assister la correspondance entre les deux savants. Après avoir introduit le concept de «  valeur des parties », ressort de la conceptualisation mathématique des problèmes posés par Méré, Pascal propose une méthode de résolution différente de celle de Fermat, qui procède par un calcul direct des combinaisons possibles : Pascal raisonne en revanche par récurrence, plus précisément même par récurrence rétrograde, en pensant le réel à partir d’une limite fictive. Il calcule ainsi les chances de gain sur lesquelles doit être fondé le partage de la mise au moment de l’interruption du jeu en imaginant tous les cas de figures possibles (combien de manches gagnées et perdues par chaque joueur) si le jeu était parvenu au terme initialement prévu, puis de là remonte à la situation précise au moment de l’arrêt. Il invente ainsi, sans la nommer encore, la notion d’ « espérance mathématique ».
+
+Accéder à la notice de l'image
+
+
+© Bibliothèque nationale de France
+
+
+
+
+ 
+                        Portrait de Pierre de Fermat | © Bibliothèque nationale de France 
+
+
+
+
+
+
+
+                                Agrandir
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lettre de Leibniz à Étienne Périer « sur quelques manuscrits de M. Pascal touchant les sections coniques »
+Les « Éléments coniques complets » promis dans l’Essai pour les coniques ne virent jamais le jour, bien que Pascal en eût renouvelé l’annonce en 1654 dans son adresse « à l’illustre académie de mathématiques de Paris », où il est question d’un « Traité complet des Coniques (Conicorum opus completum), embrassant et les coniques d’Apollonius et d’autres innombrables à partir d’une proposition unique ou presque, traité dont j’ai eu l’idée avant d’avoir atteint l’âge de seize ans et qu’ensuite j’ai construit et mis en ordre ».
+En juin 1675, le neveu de Pascal, Étienne Périer, communiqua les papiers de son oncle relatifs à ce projet à Leibniz, qui se trouvait alors à Paris, afin de recueillir son avis sur une éventuelle publication. Ces notes furent retournées par Leibniz en août 1676, mais bien qu’elles aient été très certainement déposées en 1711 à l’abbaye de Saint-Germaindes-Prés avec l’ensemble des autographes de Pascal, elles disparurent ensuite. Aussi le principal témoignage qu’on en conserve tient-il à l’information contenue dans la lettre que Leibniz adressa à Étienne Périer le 30 août 1676 en lui renvoyant les notes qui lui avaient été confiées : estimant qu’elles étaient « assez entières et assez finies pour paraître à la vue du public », Leibniz en donnait une description ordonnée, qui fournit un plan d’édition et montre aussi que l’ouvrage envisagé par Pascal se présentait comme une succession de petits traités, selon un mode de composition comparable à celui des Lettres de Dettonville. Seul le premier de ces traités, la « Generatio conisectionum » (Génération des coniques), peut être reconstitué grâce à une copie que Leibniz en avait prise : faute de l’édition que celui-ci recommandait, la suite ne reste connue que par la description sommaire fournie par sa lettre du 30 août 1676.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+                        Lettre de Leibniz à Étienne Périer « sur quelques manuscrits de M. Pascal touchant les sections coniques » | Bibliothèque nationale de France 
+
+
+
+
+
+En 1654, Pascal a adressé au groupe de Le Pailleur une « Dédicace à l’acadé­mie parisienne de mathématique » (Celeberrimæ matheseos Academiæ Parisiensi) qui présente un bilan de recherches d’une variété surprenante. Il donne du même coup l’idée de ce que nous avons perdu. Comme Pascal ne publie rien qu’il n’estime vraiment achevé, ses travaux inédits de gnomonique et de perspective, et sa méthode de construction des « carrés magiques » et « magico-magiques » ont aujourd’hui disparu. De son traité des coniques – « Conicorum opus comple­tum » –, qui suscita l’admiration de Mersenne, ne subsistent que quelques pages. Même dans ses publications, Pascal ne compose jamais de grosses sommes, il se limite toujours à ce qui est strictement nécessaire au problème qu’il traite : alors que sa correspondance avec Fermat montre qu’il possède une « géométrie du hasard  » capable de traiter des cas de jeux à trois joueurs ou plus, comme son triangle arithmétique s’applique au cas de deux joueurs, il s’y tient en déclarant seulement qu’il a « fait un petit discours en traitant des partis, qui donne l’intelligence et le moyen de les étendre plus avant » ; et en effet les correspondances des années 1656 montrent qu’il s’était attaqué à des problèmes complexes et inédits, sans que l’on sache comment il les a résolus. Le manuscrit des Pensées porte aussi des vestiges de recherches géométriques dont on ignore l’objet. La sobriété pascalienne contraste avec le foisonnement des publications du P. Mersenne, généralement moins sûres du point de vue scientifique.
+C’est aussi de la réalité technique de son temps que Pascal tire son inspi­ration. L’invention de la machine arithmétique est remarquable de ce point de vue. Elle associe l’ordre des corps et des esprits : « chose nouvelle dans la nature », cette invention « réduit en machine une science qui réside tout entière dans l’esprit », et donne moyen de faire toutes les opérations « avec une entière certitude, sans avoir besoin du raisonnement ». Et au lieu de se borner à un seul type de calculatrice, Pascal en crée trois, pour servir à des usages différents : les unes servent au calcul abstrait, d’autres au calcul financier, et d’autres enfin à l’usage des architectes pour le toisé des bâtiments. Les roues des inscripteurs diffèrent selon le rapport des unités avec lesquelles on calcule : sur une machine destinée au calcul abstrait en base 10, toutes les roues ont dix dents ; mais pour le calcul financier, certaines en ont dix, d’autres vingt ou douze, car la livre vaut 20 sols, et le sol 12 deniers. Et la pratique rend à la théorie ce qu’elle lui a prêté, car c’est elle sans doute qui a inspiré à Pascal ses réflexions sur la théorie des bases numériques, sur les avantages de la base 12, et sur le fait que « la numérotation décimale repose […] sur une convention humaine, et non sur une nécessité naturelle, comme le pense le vulgaire, et elle appelle bien des critiques ». La variété de ces sources ne fait pas de Pascal un érudit, un « docte ». Il pense et agit en « honnête homme » jusque dans les mathématiques.
+Les sources d’inspiration de Pascal
+Les sources d’inspiration de Pascal couvrent une large gamme. Il se nourrit de toutes les époques des mathématiques. On dit que Pascal n’a pas compris la fécondité de l’algèbre cartésienne ; mais il a loué la « nouvelle analyse » de René-François de Sluse, qui en est proche. Le Traité du triangle arithmé­tique  couvre des domaines mathématiques qui vont de l’antiquité au 17e siècle. Il traite d’abord des suites de « nombres figurés » représentés par des points disposés en triangles, carrés, pentagones, etc., qui remontent aux pythagoriciens grecs. Il aborde ensuite les combinaisons, dont le 16e siècle était friand. Enfin, la « géométrie du hasard », qui annonce nos probabilités, est selon Pascal « une recherche toute nouvelle et portant sur une matière entièrement inexplorée ». Autrement dit, c’est l’ensemble de l’histoire des mathématiques que ce bref traité met en perspective, grâce aux connexions que le triangle arithmétique établit entre des domaines éloignés les uns des autres.
+
+
+
+
+
+
+
+                                Agrandir
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le triangle arithmetique de Pascal
+Blaise Pascal, Traité du triangle arithmetique, avec quelques autres petits traitez sur la mesme matiere…, Paris, Guillaume Desprez, 1645.
+Le volume du Traité du triangle arithmetique est constitué par l’assemblage de onze traités différents, dont les cinq premiers sont en français, les six suivants en latin. Pascal y fournit un exposé général et systématique de ses découvertes en matière de calcul du hasard. Le cœur de son propos est occupé par la figure du « triangle arithmétique », présentation tabulaire qui dispose en rangées et colonnes des nombres répondant à des règles de progression données, constituant ce que Pascal appelle des « ordres numériques » et correspondant aux anciens « nombres figurés ». Cette disposition n’a en elle-même rien de révolutionnaire et était connue de plusieurs mathématiciens du 16e siècle ; mais la nouveauté de Pascal est d’en fournir une théorie à travers laquelle il expose les principes du raisonnement par récurrence. L’avertissement placé en tête du volume, publié trois ans après la mort de Pascal, indique que les traités qui composent cet ensemble ont été « trouvés tout imprimés parmi les papiers de Monsieur Pascal, ce qui fait voir qu’il avait dessein de les publier. Mais ayant, peu de temps après, entièrement quitté ces sortes d’études, il négligea de faire paraître ces ouvrages ». Seuls ont été imprimés en 1665 la page de titre générale, le feuillet d’avertissement et la planche qui contient la figure du triangle arithmétique : le reste est fait de l’assemblage d’impressions réalisées en 1654 mais que la « seconde conversion » de Pascal, en novembre de cette année-là, le retint de diffuser.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+                        Le triangle arithmetique de Pascal | Bibliothèque nationale de France 
+
+
+
+
+
+
+
+                                Agrandir
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Machine arithmétique de Pascal dédiée au chancelier Séguier
+Les pénibles calculs auxquels la charge de commissaire à l’impôt astreignait Étienne Pascal et son fils Blaise, qui l’aidait dans sa tâche, étaient compliqués par le fait que les comptes monétaires exigeaient de travailler dans une base non décimale, puisque la livre valait vingt sols et le sol douze deniers. Afin d’alléger ce travail tout en le rendant plus sûr, le jeune Pascal conçut l’idée d’une machine arithmétique, sans exemple jusqu’alors si l’on excepte celle de l’Allemand Wilhelm Schickard, qui n’eut qu’une existence très éphémère (1623-1624) et aucune publicité. Au-delà de sa visée pratique, la machine de Pascal, connue d’abord sous le nom de « roue pascale » avant celui de « Pascaline », était pour son temps un prodige d’ingéniosité, par lequel Pascal entendait faire montre d’une puissance d’invention et d’une force théorique telles que la raison en arrivait paradoxalement à s’affranchir des embarras du raisonnement : « Cet ouvrage, écrit Gilberte Périer dans la Vie de M. Pascal, a été considéré comme une chose nouvelle dans la nature, d’avoir réduit en machine une science qui réside tout entière dans l’esprit, et d’avoir trouvé le moyen d’en faire toutes les opérations avec une entière certitude, sans avoir besoin du raisonnement. » De là, la position particulière de la machine arithmétique dans la pensée pascalienne : en tant qu’automate obéissant à des mouvements dictés, elle appartient à l’ordre des corps ; en tant qu’invention produite par la raison, elle appartient à l’ordre de l’esprit. Ainsi « la machine d’arithmétique fait des effets qui approchent plus de la pensée que tout ce que font les animaux. Mais elle ne fait rien qui puisse faire dire qu’elle a de la volonté, comme les animaux » (S. 617).
+Au terme de recherches commencées vers 1642 et après plusieurs essais qui l’avaient laissé insatisfait, Pascal mit au jour un premier modèle en 1644, disparu ensuite : il fut présenté au chancelier Séguier et, en février, au prince Henri II de Bourbon-Condé, père du Grand Condé. Le modèle définitif ne fut mis au point qu’en 1645. Il est fait d’un caisson rectangulaire dont le plan supérieur ou « platine » se divise en deux parties. La partie antérieure contient l’ « inscripteur », constitué d’une série de cinq à dix roues selon les modèles, chaque roue étant munie d’un nombre variable de rayons selon la base de calcul (dix rayons en base décimale, douze en base duodécimale, etc.). La partie postérieure forme le « totaliseur », où s’alignent des lucarnes découpées dans la platine face aux roues de l’inscripteur. Chacune laisse voir un rouleau de papier monté sur un cylindre et portant deux séries de chiffres superposées : l’une sert à afficher le résultat des additions, l’autre celle des soustractions, selon qu’une baguette mobile qui coulisse le long des lucarnes est en position haute ou basse. Des roues de l’inscripteur aux cylindres du totaliseur, le lien se fait par un engrenage de roues dentées dissimulées sous la platine et accompagnées de sautoirs, mécanismes de report essentiels puisqu’ils assurent la transmission de l’information d’une roue de compte à la suivante : ainsi s’effectuent arithmétiques.
+On connaît aujourd’hui huit exemplaires originaux de la machine arithmétique de Pascal. Celui qui fut offert au chancelier Séguier – authentifié par une inscription de dédicace de la main de Pascal sur un papier collé à l’intérieur de la machine – est l’un des cinq exemplaires à huit roues, destinés au calcul monétaire : les deux roues de droite sont pour les sols et les deniers, les six autres pour les livres. Vendue sur le marché à la ferraille de Bordeaux sous la Révolution, cette machine demeura dans une collection bordelaise jusqu’en 1950 ; acquise alors par la société IBM, elle fut échangée en 1951 avec le musée des Arts et métiers.
+
+Accéder à la notice de l'image
+
+
+© Musée des Arts et métiers
+
+
+
+
+ 
+                        Machine arithmétique de Pascal dédiée au chancelier Séguier | © Musée des Arts et métiers 
+
+
+
+
+
+C’est aussi de la réalité technique de son temps que Pascal tire son inspi­ration. L’invention de la machine arithmétique est remarquable de ce point de vue. Elle associe l’ordre des corps et des esprits : « chose nouvelle dans la nature », cette invention « réduit en machine une science qui réside tout entière dans l’esprit », et donne moyen de faire toutes les opérations « avec une entière certitude, sans avoir besoin du raisonnement ». Et au lieu de se borner à un seul type de calculatrice, Pascal en crée trois, pour servir à des usages différents : les unes servent au calcul abstrait, d’autres au calcul financier, et d’autres enfin à l’usage des architectes pour le toisé des bâtiments. Les roues des inscripteurs diffèrent selon le rapport des unités avec lesquelles on calcule : sur une machine destinée au calcul abstrait en base 10, toutes les roues ont dix dents ; mais pour le calcul financier, certaines en ont dix, d’autres vingt ou douze, car la livre vaut 20 sols, et le sol 12 deniers. Et la pratique rend à la théorie ce qu’elle lui a prêté, car c’est elle sans doute qui a inspiré à Pascal ses réflexions sur la théorie des bases numériques, sur les avantages de la base 12, et sur le fait que « la numérotation décimale repose […] sur une convention humaine, et non sur une nécessité naturelle, comme le pense le vulgaire, et elle appelle bien des critiques ».
+La variété de ces sources ne fait pas de Pascal un érudit, un « docte ». Il pense et agit en « honnête homme » jusque dans les mathématiques.
+Écrire en français par souci d’accessibilité
+Cela paraît d’abord dans l’effort qu’il s’impose pour se rendre accessible à un public qui dépasse les milieux savants. Il ne faut pas croire que la création d’une langue nouvelle est plus aisée dans les mathématiques qu’en littérature. Il fallait de profondes réflexions pour construire une langue française capable de formuler des théories aussi neuves que la « doctrine des indivisibles » et – plus encore – que la « géométrie du hasard » pour exprimer des concepts aussi complexes que ceux de « nombres des hasards », « parti[s] d’un joueur » ou « valeur[s] d’une partie ». Pendant la Renaissance, des tentatives labo­rieuses ont été faites pour écrire la mathématique en français. Au 17e siècle, le latin règne toujours, mais le français gagne du terrain à mesure que se répand dans le monde le goût des sciences. Pascal est de ceux qui ont réussi à forger une langue capable de traiter les sciences nouvelles, qui concilie la rigueur et l’accessibilité aux amateurs cultivés.
+Il a substitué à la pre­mière impression de son Triangulus arithmeticus, en latin, un Traité du triangle arithmétique, dont les parties principales sont en français, puis publié les Lettres de A. Dettonville  en un français qui a mérité les éloges de Bourbaki, pour la manière dont il donne le sentiment de comprendre à fond des domaines où il faudra encore plusieurs siècles pour parvenir à une « clarté parfaite ».
+
+
+
+
+
+
+
+
+
+
+            Agrandir
+            
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blaise Pascal, Expériences nouvelles touchant le vuide faites dans des tuyaux...
+... syringues, soufflets, et siphons de plusieurs longueurs et figures : avec diverses liqueurs, comme vif-argent, eau, vin, huyle, air, etc…
+Imprimé en octobre 1647, largement diffusé par le P. Mersenne auprès de ses correspondants à travers l’Europe entière, ce petit livre d’une trentaine de pages se présente comme l’abrégé d’un « traité entier » à venir dont il suit le plan. La première partie, celle qui est la plus développée dans cette version préparatoire, fournit un procès-verbal des expériences du vide menées par Pascal, dont le texte est en cela très différent du Discours du vide de Guiffart : « la phase de recherche achevée, il ne s’agit plus de scruter les détails, mais de faire la synthèse des observations, de faire apparaître non le travail de l’expérimentateur, mais le mécanisme des phénomènes » (Descotes 1993). La seconde partie formule en conséquence, sur la base de ces expériences, une série de « propositions » qui mènent à la conclusion que l’ « espace vide en apparence » dans la partie supérieure des tuyaux « est véritablement vide et destitué de toute matière » : il s’agit d’un « vide absolu ». La démonstration doit enfin s’achever par la réfutation des différentes objections opposées à cette thèse, notamment par ceux qui prétendent que ce vide apparent est en réalité rempli « d’une matière qui ne subsistait que dans leur imagination », allusion à l’hypothèse de la « matière subtile » de Descartes. Le « traité entier » ne fut pas publié du vivant de Pascal, mais l’année qui suivit sa mort, par les soins de son beau-frère Florin Périer : il s’agit des Traités de l’équilibre des liqueurs et de la pesanteur de la masse de l’air, qui répondent cependant à un mode d’exposition entièrement remanié par rapport à celui qui était annoncé en 1647.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+            Blaise Pascal, Expériences nouvelles touchant le vuide faites dans des tuyaux... | Bibliothèque nationale de France 
+
+
+
+Tous ses écrits de physique sont aussi en français, ce qui a largement contribué au succès des Expériences nouvelles touchant le vide dans les milieux mon­dains comme parmi les savants. Pascal sait du reste admirablement combiner le raisonnement scientifique avec les techniques de la publicité, comme on le voit dans le Récit de la grande expérience de l’équilibre des liqueurs, où l’expé­rience du puy de Dôme est littéralement mise en scène et animée par l’insertion de la lettre de Florin Périer qui en conte les péripéties. C’est plus encore le cas de l’Avis nécessaire à ceux qui auront curiosité de voir la machine arithmétique et de s’en servir, où Pascal, avec trois siècles d’avance, use de tous les arguments que la publicité nous a rendus aujourd’hui familiers en un style parfaitement adapté au public mondain : simplicité d’emploi, facilité des opérations, ergonomie, soli­dité de la machine établie par un test de « transport de l’instrument de plus de deux cent cinquante lieues de chemin, sans aucune altération », aucun des arguments propres à séduire le chaland ne manque, même pas la dédicace de la machine à une personnalité célèbre de l’époque, le chancelier Séguier. Ce qui n’empêche pas Pascal de proposer cette réflexion d’ingénieur assez profonde pour demeurer valable dans nos ordinateurs modernes, que ce serait une erreur de reprocher à la machine la complexité de son mécanisme intérieur, parce que c’est précisément grâce à elle que son usage est simple et commode.
+Des intuitions à contre-courant
+Le propre du génie de Pascal, dit Brunschvicg, consiste à n’avoir jamais hésité devant l’invention d’instruments mathématiques inédits dès lors qu’ils lui servaient à engendrer des théories ou à unifier des domaines mathéma­tiques qui semblent a priori différents.
+Ses principes vont souvent à contre-courant des opinions communes. Prenons pour exemple la « géométrie du hasard » exposée dans le Triangle arithmétique, déjà évoqué ici. Pascal n’envisage pas le problème comme une question de « probabilité » (il n’emploie jamais le mot dans ce contexte), mais de « parti », c’est-à-dire de partage d’un enjeu proportionnellement aux avan­tages de chaque joueur à un moment donné. Il y prend à rebrousse-poil la mentalité naturelle des joueurs : alors que ceux-ci supposent plus ou moins consciemment que l’argent qu’ils ont engagé leur appartient toujours, Pascal affirme que « pour entendre la règle des partis, la première chose qu’il faut considérer est que l’argent que les joueurs ont mis en jeu ne leur appartient plus, car ils en ont quitté la propriété » : un jeu doit être considéré comme un contrat d’association entre les joueurs, par lequel ils ont acheté « le droit d’attendre ce que le hasard leur en peut donner, suivant les conditions dont ils sont convenus d’abord », comme lorsqu’on achète un billet de loterie.
+D’autre part, le calcul des partis procède à l’inverse des autres méthodes mathématiques, qui cherchent appui sur des principes fondés sur la réalité : le sens commun suggère que plus on a gagné de parties, plus on mérite d’empor­ter d’argent, de sorte que l’on croit pouvoir évaluer l’avantage d’un joueur par le nombre de parties qu’il a déjà gagnées. Pascal pose au contraire qu’il faut s’appuyer sur les parties qui manquent à ce joueur pour mesurer son « avan­tage », autrement dit sur les parties qui n’ont pas encore été jouées. Il va donc chercher les principes de son raisonnement à la fin du jeu : car, quelle que soit la succession des parties à venir, à la fin du jeu, l’un des joueurs en aura néces­sairement gagné le nombre requis pour emporter tout l’enjeu et l’autre n’aura rien. Il est donc possible, à partir de cette situation, de calculer le « parti » dans le cas où à chaque joueur manque une seule partie, puis le cas où « à un des joueurs il manque une partie, et à l’autre deux ». En procédant d’un cas à un autre d’aval en amont, on calcule les partis jusqu’au moment demandé. Pascal ne dissimule pas le caractère extraordinaire de cette méthode, qui suppose qu’on raisonne sur des parties qui n’auront peut-être jamais lieu. Mais toute « rebelle à l’expérience » que la question ait été, « elle n’a pu échapper à l’empire de la raison », et «  par l’union ainsi réalisée entre les démonstrations des mathématiques et l’incertitude du hasard », elle peut « s’arroger à bon droit ce titre étonnant : Géométrie du hasard ».
+
+
+
+
+
+
+
+
+
+
+            Agrandir
+            
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brouillon projet d’une atteinte aux événements des rencontres du cône avec un plan
+Comme Étienne Pascal, Claude Hardy ou Claude Mydorge, le géomètre Girard Desargues (1591-1651) compte au nombre des personnalités énumérées par Mersenne dans la lettre de septembre 1635 où il annonçait à Peiresc la création de son « académie » de mathématiques. Le « brouillon projet » ou esquisse qu’il a consacré aux coniques est l’un des travaux les plus remarquables issus de ce cercle : il introduit une véritable révolution dans la manière dont on envisageait ces figures depuis Apollonius. À la recherche d’une explication synthétique ou « manière universelle », Desargues crée le concept très novateur d’ « involution », qui lui permet de penser la diversité des sections coniques comme les effets d’une unique raison projective : elles sont des projections de la base du cône sur le plan qui le traverse. Desargues substituait ainsi à la tradition descriptive une pensée générative, qui fait de lui l’inventeur de la géométrie projective.
+Le Brouillon projet de 1639 se présente comme un livret de trente-deux pages précédées d’un avertissement de deux feuillets, dépourvues de figures. L’édition fut tirée à cinquante exemplaires, diffusés par Mersenne. L’unique exemplaire qui subsiste aujourd’hui porte un ex-libris du 17e siècle, « Ex bibli. Lustierina », qui demeure à identifier. Ce livre très précieux a été relié en 2000 par Jean de Gonet, qui l’a recouvert d’une reliure en carbone Kevlar.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+Brouillon projet d’une atteinte aux événements des rencontres du cône avec un plan | Bibliothèque nationale de France 
+
+
+Tout aussi singulière est la « Génération des sections coniques », qui s’inspire du Brouillon projet d’une atteinte aux événements des rencontres du Cône avec un Plan (un traité des sections coniques) de Girard Desargues. Tel est par exemple le « point à l’infini dans un plan ». C’est un de ces objets dont Pascal pense qu’ils sont « incompréhensibles », mais qu’ils « ne laissent pas d’être » (S. 182) : comment en effet concevoir ce point par définition hors de toute atteinte ? D’autant plus qu’il engendre des principes qui paraissent contraires à la géométrie euclidienne : « Deux droites ou davantage, quelle que soit leur position, sont toujours dites concourantes, soit à distance fi nie, si elles se coupent en un même point, soit à distance infinie, si elles sont parallèles. » Que deux droites concourantes se coupent, c’est une définition admise par tout le monde. Mais qu’on y ramène le cas des parallèles en renvoyant leur point d’intersection à l’infini peut légitimement surprendre. Cependant de cette étrange définition se tirent des conséquences remarquables.
+Desargues et Pascal en constituent une théorie unique : une propriété établie sur un cercle peut être étendue à toutes les « coniques », en considérant seulement que certains cas enferment la considé­ration d’éléments à l’infini. Dans la « Generatio conisectionum » et son Introduction à la géométrie, Pascal ouvre la voie d’une géométrie doublement nouvelle. C’est une géométrie qui considère les figures selon des rapports de position respective, indépendamment des considérations de mesure : elle annonce ainsi la « topologie ». D’autre part, c’est une géométrie qui envisage les métamorphoses que subit le cercle lorsque la projection engendre sur le plan des courbes différentes : cette géométrie projective sera redécouverte au 19e siècle par Poncelet.
+Ces géométries conduisent inévitablement à chan­ger certaines manières de penser. Imaginons un cercle de centre O et de rayon fini OA, dont par définition la circonférence est l’ensemble des points situés à égale distance du centre. Que le rayon OA croisse progressivement : la courbure de la circonférence diminue à mesure. Que la longueur du rayon devienne infinie : de courbe, la circonférence sera métamorphosée en droite. La droite est ainsi la figure du cercle de rayon infini. Mais cette construction implique que les deux extrémités de la droite, qui s’éloignent pourtant en sens contraire, se rejoignent à l’infini, autrement dit qu’une droite a non pas deux points à l’infini, comme l’intuition le suggère, mais un seul.
+
+
+
+
+
+
+
+
+
+
+            Agrandir
+            
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blaise Pascal, Lettres de A. Dettonville contenant quelques-unes de ses inventions de geometrie… 
+L’engagement qu’il avait pris de publier la résolution des problèmes inscrits au concours de la roulette en juin et octobre 1658 si aucun prix n’était attribué, mettait Pascal en demeure de s’exécuter rapidement. L’impression des premières feuilles des Lettres de Dettonville commença donc dans la seconde quinzaine de décembre de 1658 et s’acheva au plus tard dans les premiers jours du mois de mars suivant, des exemplaires commençant à être distribués dès le 7 mars 1659. Pascal, comme il l’avait fait en 1657 pour les Provinciales ne sortait qu’à demi de l’anonymat par cette publication : il y adoptait le pseudonyme d’Amos Dettonville, anagramme tant du nom de Louis de Montalte employé pour les Provinciales que de celui de Salomon de Tultie qui apparaît dans les Pensées : autant de chiffres d’une même signature selon ce qu’il s’agissait de signer, en vertu d’une « nécessité du double liée à la nature même de l’énonciation littéraire » (Le Guern 2015).
+Acte final du concours de la roulette, les Lettres de Dettonville sont à la fois la dernière œuvre scientifique de Pascal et une ouverture décisive dans l’histoire des mathématiques. Elles jettent en effet les bases du calcul intégral et réalisent ce qu’annonçait l’Histoire de la roulette : la cycloïde n’y est pas considérée pour elle-même, mais comme l’occasion de « faire l’essai sur un sujet des plus difficiles » d’un raisonnement d’une portée beaucoup plus générale (des « méthodes auxquelles […] peu de choses pourraient échapper » ). Fidèle à la leçon de Desargues, Pascal avait trouvé une « manière universelle ». L’expression elliptique que lui a donnée Pascal présentait toutefois de grandes difficultés, que soulignait Huygens dans une lettre à Carcavy du 22 mai 1659 : « J’admire de plus en plus la subtilité des écrits de Monsieur Dettonville, mais il faut avouer que c’est un labyrinthe lorsque l’on veut faire la construction de quelque problème. » Le labyrinthe est aussi celui de la forme éditoriale : l’œuvre se présente non comme un propos suivi, mais comme une mosaïque de neuf petits traités, aux paginations distinctes et répondant à un ordonnancement différent de celui qu’annonce la page de titre. Ils se regroupent à l’intérieur du volume en quatre grandes parties, chacune constituant une lettre : la première à Carcavy, la seconde à Huygens, la troisième à Sluse, la dernière à « Monsieur A. D. D. S. », initiales sous lesquelles J. Mesnard a proposé d’identifier « Arnauld docteur de Sorbonne ». Quant à la lecture, elle répond à une logique différente encore, la résolution d’un certain nombre de problèmes supposant des renvois de traité en traité dans un ordre non linéaire. Dans cet ensemble compliqué, la partie la plus riche est le « traité des trilignes » inclus dans la lettre à Carcavy. Il offre en effet une démonstration générale de ce qu’on appellera « l’intégration par parties » et présente aussi un remarquable dépassement du propos géométrique dans ses quatre dernières propositions, où « la géométrie finit par ne plus être qu’une abstraction au service du calcul » (Merker 2001).
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+            Blaise Pascal, Lettres de A. Dettonville contenant quelques-unes de ses inventions de geometrie…  | Bibliothèque nationale de France 
+
+
+Les Lettres de A. Dettonville, dernier ouvrage publié (sous l’un de ses noms de plume) par Pascal, pour résoudre des problèmes relatifs à la roulette (la cycloïde), engendrent des paradoxes semblables par une adroite combinai­son d’arithmétique et de géométrie. Pascal a bien rappelé dans De l’esprit géométrique qu’il existe différentes sortes de grandeurs que l’on dit « hétérogènes » parce qu’elles n’ont pas de rapport entre elles : il n’y a pas de « proportion » entre la ligne et la surface, parce que la ligne n’a qu’une dimension, de sorte que ce n’est pas en accolant des lignes que l’on engendre une surface qui a longueur et largeur. De même, jamais, en superposant des surfaces sans épaisseur, on n’engendre des solides à trois dimensions. Cependant dans les Lettres de A. Dettonville, Pascal se sert du langage de l’arithmétique pour dépasser cette règle. Il multiplie aussi les multiplications : il somme des cubes d’ordonnées qui, multipliés chacun par des petites portions, atteignent quatre dimensions, des carrés élevés au carré qui en ont cinq, puis des carrés et des cubes de « lignes mixtes » qui conduisent le lecteur au-delà des limites de la géométrie natu­relle, jusqu’à un point où seul un calcul aveugle permet de mesurer des corps dépourvus de la réalité concrète de la géométrie euclidienne. Et pourtant ces inventions ne trahissent aucune vaine virtuosité : le lecteur finit souvent par avoir la surprise de découvrir leur signification.
+De la géométrie à la physique : les expériences
+En dehors même des mathématiques, la pensée géométrique fournit des modèles féconds.
+Dans la « Préface » inachevée de son Traité du vide, Pascal distingue deux types de connaissances : les sciences fondées sur la raison et les sens, et celles qui reposent sur l’autorité.
+Les premières ont pour objet les choses qui sont connues directement par les sens et la raison, facultés naturelles dont chacun dispose pour connaître par soi-même les principes et tirer les conséquences sans avoir nul besoin de secours extérieur. Ainsi la recherche mathématique peut se poursuivre libre­ment, dans un progrès éternel, de sorte que la géométrie a une infinité d’infi­nités de propositions à exposer. De ce fait elle demeure toujours partielle et inachevée : il n’y a pas de mathesis universalis. En revanche, elle est entièrement indépendante de l’autorité : nul, fût-ce au nom d’Aristote, n’a le pouvoir d’y imposer quelque proposition que ce soit.
+Moins certaine que la géométrie, la physique l’imite en procédant aux expé­riences qui sont les « véritables maîtres qu’il faut suivre dans la physique ». C’est ce que fait Pascal lorsqu’il rapporte les « expériences nouvelles » réalisées à la verrerie de Saint-Sever pour faire apparaître un espace vide en haut d’un tube de 15 mètres de long. À partir de ces expériences spectaculaires, il éta­blit une synthèse théorique de l’hydrostatique générale, applicable à tous les liquides.
+
+
+
+
+
+
+
+                                Agrandir
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blaise Pascal, Récit de la grande expérience de l’équilibre des liqueurs… 
+Mersenne ne vit pas la réalisation de l’expérience qu’il avait décrite dans la préface des « Nouvelles observations physicomathématiques » : il mourut le 1er septembre 1648. Une quinzaine de jours plus tard, le 19 septembre, Florin Périer effectuait à la demande de son beau-frère l’expérience du vif-argent successivement au pied, au sommet et à mi-hauteur du puy de Dôme, en constatant que le niveau du mercure dans le tube variait comme le laissait attendre l’hypothèse de l’action de la pression atmosphérique. Pascal lui-même, après avoir reçu le compte-rendu de Florin Périer, réédita l’expérience à plus petite échelle à Paris, au pied et au sommet de la tour Saint-Jacques. L’expérience dite « du puy de Dôme » constituait la première preuve concluante de l’hypothèse de Torricelli. Aussi Pascal se hâta-t-il d’en publier les résultats. Tel est l’objet du Récit de la grande expérience, opuscule paru à la fin de l’année 1648 qui se décompose en trois grandes parties : la lettre adressée par Pascal à Florin Périer le 15 novembre 1647, qui lui commande de « faire l’expérience ordinaire du vide plusieurs fois en même jour, dans un même tuyau, avec le même vif-argent, tantôt au bas et tantôt au sommet » du puy de Dôme ; la lettre adressée par Florin Périer à Pascal le 22 septembre 1648, qui fournit la relation détaillée de l’expérience effectuée le 19 septembre sur le puy de Dôme et le lendemain au pied et au sommet de la tour la plus élevée de la cathédrale de Clermont ; une adresse de Pascal au lecteur où, après avoir rappelé sa propre expérience à la tour Saint-Jacques, il réitère l’annonce du « traité entier » déjà promis dans les Expériences nouvelles. C’est là que doit être donnée l’interprétation d’ensemble des expériences du vide.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+                        Blaise Pascal, Récit de la grande expérience de l’équilibre des liqueurs…  | Bibliothèque nationale de France 
+
+
+
+
+
+
+
+                                Agrandir
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blaise Pascal, Traités de l’équilibre des liqueurs, et de la pesanteur de la masse de l’air…
+On a conservé de Pascal un projet de préface et quelques fragments d’un Traité du vide laissé inachevé, datant de 1651 et qui devait constituer le « traité entier » annoncé en 1647 et 1648. Le projet de préface – où Pascal établissait un départ très net entre les « droits séparés » de l’autorité et de la raison comme sources du savoir – est demeuré manuscrit, les autres fragments connus ont été publiés en 1663 en annexe aux Traités de l’équilibre des liqueurs et de la pesanteur de la masse de l’air. Mais la partie principale de ce livre, publié de manière posthume par les soins de Florin Périer, correspond à un remaniement complet du projet de 1651, qui se présente sous une forme plus ramassée et synthétique. Pascal avait très vraisemblablement achevé ce travail de refonte dès 1654, car il annonçait cette année-là aux membres de l’académie Le Pailleur que « sur le vide, […] un ouvrage va bientôt être mis sous presse ». Les raisons pour lesquelles Pascal ne donna pas suite à cette promesse restent obscures, mais le fait que son attention ait été au même moment requise par des recherches mathématiques sur le calcul des probabilités a certainement compté. Exemplaire de Pierre-Daniel Huet, relié en veau jaspé à ses armes, avec quelques notes de sa main en fin de volume : Huet a transcrit cinq vers du De natura rerum de Lucrèce (VI, 1021-1025) et fait un renvoi à la troisième des Questions physiques et mathématiques de Mersenne.
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+                        Blaise Pascal, Traités de l’équilibre des liqueurs, et de la pesanteur de la masse de l’air… | Bibliothèque nationale de France 
+
+
+
+
+
+Le Traité de l’équilibre des liqueurs explique pourquoi les liquides pèsent « suivant leur hauteur », comment ils peuvent équilibrer « un corps solide », et des corps compressibles ou non, « qui sont tout enfoncés dans l’eau ». Le Traité de la pesanteur de la masse de l’air déduit point par point du principe « que l’air est pesant » les propriétés de la pression atmosphérique : « Puisque chaque partie de l’air est pesante, il s’ensuit que la masse entière de l’air, c’est-à-dire la sphère entière de l’air, est pesante » ; « comme la sphère de l’air n’est pas infinie en son étendue, et qu’elle a des bornes, aussi la pesanteur de la masse de tout l’air n’est pas infinie » ; « comme le fond d’un seau où il y a de l’eau est plus pressé par le poids de l’eau quand il est tout plein que quand il ne l’est qu’à demi, et qu’il l’est d’autant plus qu’il y a plus de hauteur d’eau, aussi les lieux élevés, comme les sommets des montagnes, ne sont pas si pres­sés par le poids de la masse de l’air que les lieux profonds, comme les vallons ; parce qu’il y a plus d’air au-dessus des vallons qu’au-dessus des sommets des montagnes ». Les chapitres suivants passent à différentes applications fami­lières : la pesanteur de la masse de l’air « cause l’enflure de la chair quand on applique des ventouses », « l’attraction du lait que les enfants tètent de leurs nourrices », et « l’attraction de l’air qui se fait en respirant ». Là encore nulle place pour l’autorité (en dehors des récits d’expériences, qui doivent être crédibles).
+L’importance de l’imagination
+Comme nous l’avons constaté ci-dessus pour la géométrie, l’imagination, qui est loin d’être toujours une «  puissance trompeuse », prend le relais quand il s’agit d’exhiber des effets moins ordinaires : lorsqu’il s’agit de prouver que « comme les effets de la pesanteur de la masse de l’air augmentent ou dimi­nuent à mesure qu’elle augmente ou diminue, ils cesseraient entièrement si l’on était au-dessus de l’air ou en un lieu où il n’y en eût point », Pascal semble se heurter à une impossi­bilité. Il parvient pourtant à réaliser l’expérience, sans s’envoler au -delà de l’atmosphère comme Cyrano de Bergerac, en construisant un modèle réduit de cette expérience impossible, par l’expérience dite « du vide dans le vide », qui consiste à placer un petit tube barométrique dans un autre plus grand, et à montrer que, si l’on fait le vide dans le grand tube, le mercure du petit tube, n’étant plus soumis à la pression de l’air, tombe au niveau de sa cuve. L’esprit géométrique s’appuie ainsi sur l’imagination rationnelle lorsque la pratique paraît atteindre ses limites.
+À côté des disciplines d’observation et de raisonnement, il existe des sciences soumises au principe d’autorité. N’entendons pas par là une contrainte exercée sur l’esprit par une puissance arbitraire. Tout au contraire, l’autorité est pour Pascal une manière de respecter la séparation naturelle des ordres, alors qu’il condamne sous le nom de « tyrannie » qui consiste à « vouloir avoir par une voie ce qu’on ne peut avoir que par une autre », par exemple à forcer le consentement de l’esprit par la contrainte et la violence faite au corps. Les matières d’autorité sont celles qui, n’étant pas soumises aux facultés naturelles, ne peuvent être connues sans médiation par la raison ou les sens : il y faut recourir à d’autres personnes, qui par une connaissance directe des faits ont autorité pour en parler. Telle est l’histoire, car les événe­ments passés ne sont connus que par le témoignage de ceux qui les ont vécus, ou la géographie, car les pays lointains ne sont vraiment connus que par ceux qui y ont voyagé. C’est surtout le cas de la théologie, car le mystère d’un Dieu infini et caché ne peut être connu que par une révélation apportée par Dieu lui-même. Dans tous ces cas, l’esprit doit se soumettre aux principes qui lui sont fournis par des récits authentiques ou une Révélation.
+Le raisonnement n’est pas exclu pour autant : il intervient d’abord en amont pour juger de la nécessité de l’appel à l’auto­rité, puis pour évaluer la crédibilité des témoignages ; il inter­vient ensuite en aval, pour tirer des principes admis toutes les conséquences. C’est aujourd’hui encore notre conception de l’histoire, que nul ne peut rien ajouter aux documents origi­naux fournis par les archives, mais que l’historien est juge de la crédibilité des témoins, dont il tire ensuite les conclusions qu’impose leur rapport. Et en matière religieuse, la première démarche consiste à distinguer les fausses autorités (philosophies et fausses religions) de celles qui méritent confiance puis, une fois acquises les raisons de croire, à s’appuyer sur les dogmes apportés par la Révélation pour tenter d’ap­profondir la compréhension des mystères divins : c’est l’objet de la théologie, science de raisonnement que Pascal lui-même a pratiquée dans ses Écrits sur la grâce. Le titre d’un dossier des Pensées résume cette démarche : « Soumission et usage de la raison ».
+
+
+
+
+
+
+
+
+
+
+            Agrandir
+            
+
+
+
+        Fermer
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Noël de Lalanne, Distinction abrégée des cinq propositions qui regardent la matière de la grâce...
+...Où l’on voit clairement en trois colonnes les divers sens que ces propositions peuvent recevoir : et les sentimens, des Calvinistes et des Luthériens ; des Pelagiens et des Molinistes ; de saint Augustin et de ses disciples
+L’affaire de la Sorbonne fut portée d’abord devant le pape Innocent X par les partisans de Nicolas Cornet, qui demandèrent une condamnation pontificale des cinq premières propositions qu’il avait présentées à la faculté de théologie en juillet 1649. Les augustiniens réagirent sans tarder, et chacun défendit ses positions à coup de libelles produits en grand nombre. La Distinction abrégée des cinq propositions qui regardent la matière de la grâce est le plus important de ceux qui soutiennent Jansénius. Principalement rédigé par le docteur de Sorbonne Noël de Lalane mais signé conjointement avec ses confrères Toussaint Desmares, Louis Gorin de Saint-Amour, Nicolas Manessier et Louis Angran, il doit à sa présentation particulière d’être resté connu sous le titre d’Écrit à trois colonnes : pour chacune des cinq propositions, il juxtapose l’interprétation hérétique des protestants, l’interprétation hérétique des pélagiens auxquels sont assimilés les molinistes, et, placée au centre, l’interprétation augustinienne, définie comme seule orthodoxe. Le procédé du triple parallèle, qui renvoie dos à dos les erreurs des calvinistes et des molinistes pour mieux mettre en lumière la pureté de la doctrine augustinienne, sera réutilisé par Pascal tant dans les Écrits sur la grâce que dans le Cinquième Écrit des Curés de Paris. L’exposition en colonnes est un procédé qu’utilisa également Antoine Arnauld en 1656 dans son Apologeticus alter et dans sa Vera sancti Thomæ Doctrina de gratia sufficiente et efficaci. Le premier de ces deux textes est signalé pour cette raison dans la troisième Provinciale : « Cependant M. Arnauld fait ses apologies, où il donne en plusieurs colonnes sa proposition et les passages des Pères d’où il l’a prise, pour en faire paraître la conformité aux moins clairvoyants ».
+
+Accéder à la notice de l'image
+
+
+Bibliothèque nationale de France
+
+
+
+
+ 
+            Noël de Lalanne, Distinction abrégée des cinq propositions qui regardent la matière de la grâce... | Bibliothèque nationale de France 
+
+
+
+Il ne faudrait pas du reste exagérer la différence entre la science et la reli­gion. Certes, les dogmes de la foi dépassent la raison. Mais nous avons vu que le savant affronte des « incompréhensibles qui ne laissent pas d’être » avec les corps géométriques à quatre, cinq ou six dimensions. Il y en a d’autres. Le point à l’infini, le nombre infini qui n’est ni pair ni impair, la spirale de Torricelli qui s’enroule infiniment sur elle-même sans jamais parvenir à son centre, mais qui a une mesure finie. À un certain point, la géométrie met en question des catégories de pensée fondamentales. Mais ce sont ces monstres qui permettent de passer les colonnes d’Hercule. Pascal aurait pu dire de ce que nous appelons le scientisme, qui cadenasse a priori le domaine du rationnel, ce qu’il a dit de l’athéisme en matière de religion : « Athéisme marque de force d’esprit, mais jusqu’à un certain degré seulement » (S. 189). L’esprit géométrique est ouvert à l’imagination, non à la folle du logis que dénoncent les Pensées, mais à la recherche qui ne craint pas le risque et l’aventure.
+S’il en fallait une dernière preuve, on le trouverait dans un tout autre domaine, peut-être moins connu : la création d’entreprise. Le dossier de la société des « carrosses à cinq sols », tel que l’a reconstitué Jean Mesnard, impose cette dernière conclusion : la conception de ces transports en commun parisiens, la direction de la société, l’organisation des contrats, la détermina­tion des trajets, le choix des véhicules, tout cela a été conçu et réalisé par Pascal d’une manière tout à la fois méthodique, rigoureuse et inspirée par le goût de l’innovation : tant qu’il a dirigé l’entreprise, les carrosses ont circulé active­ment dans Paris, bien avant nos omnibus et notre métropolitain.
+La géométrie n’est peut-être qu’un métier, dit Pascal ; mais elle donne un modèle de raisonnement et un guide assez souple pour conduire la pensée dans des ordres différents : l’ordre des esprits par ses inventions, l’ordre de la charité par la rédaction des Pensées et des Provinciales, mais aussi l’activité pratique dans l’ordre des corps.
+
+
+Provenance
+Cet article provient du site Les Essentiels de la littérature (2015)
+
+Lien permanent
+ark:/12148/mmfmz67r0bck5
+
+
+
+
+Mots-clés
+
+
+17e siècle
+
+
+France
+
+
+Mathématiques
+
+
+Physique
+
+
+Blaise Pascal
+
+
+
+
+
+
+
+
+
+Pour aller plus loin
+
+
+
+
+
+
+
+
+
+
+BnF–YOUTUBE
+
+Blaise Pascal, géomètre du hasard
+Retrouvez l'enregistrement vidéo d'une conférence du cycle « Un texte, un mathématicien » consacrée à Pascal, par Gregory Miermont.
+
+
+
+
+

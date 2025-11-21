@@ -1,0 +1,29 @@
+{
+    "documents": {
+        "doc1": {
+            "isReserved": false,
+            "available_from": "2024-05-01"
+        },
+        "doc2": {
+            "isReserved": false,
+            "available_from": "2024-06-15"
+        }
+    },
+    "available_seats": {
+        "exhibition": 100
+    },
+    "users": {
+        "subscription_type": "moins de 26",
+        "subscription_enddate": "2030-04-23",
+        "borrowed_books": [
+            {
+                "name": "doc2",
+                "end_date": "2024-05-01"
+            },
+            {
+                "name": "doc1",
+                "end_date": "2024-05-01"
+            }
+        ]
+    }
+}

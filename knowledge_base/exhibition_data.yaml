@@ -1,0 +1,20 @@
+spec_version: v1
+kind: knowledge_base 
+name: exhibition_data
+description: |
+  Data from the BNF essentials site
+documents:
+   - path: "./data/expositions/« La Bête est morte ! ». Dessiner, résister, témoigner.txt"
+     url: "https://www.bnf.fr/fr/agenda/la-bete-est-morte-dessiner-resister-temoigner"
+   - path: "./data/expositions/Avant « Tristes tropiques » – Les écrits brésiliens de Claude et Dina Lévi-Strauss (1935-1939).txt"
+     url: "https://www.bnf.fr/fr/agenda/avant-tristes-tropiques-les-ecrits-bresiliens-de-claude-et-dina-levi-strauss-1935-1939"
+   - path: "./data/expositions/Impressions nabies.txt"
+     url: "https://www.bnf.fr/fr/agenda/impressions-nabies"
+   - path: "./data/expositions/Le Palais Garnier : 150 ans d’un théâtre mythique.txt"
+     url: "https://www.bnf.fr/fr/agenda/le-palais-garnier-150-ans-dun-theatre-mythique"
+   - path: "./data/expositions/Les Clés du Festival, l’aventure du Festival d’Avignon des origines à nos jours.txt"
+     url: "https://www.bnf.fr/fr/agenda/les-cles-du-festival-laventure-du-festival-davignon-des-origines-nos-jours"
+   - path: "./data/expositions/Les mondes de Colette.txt"
+     url: "https://www.bnf.fr/fr/agenda/les-mondes-de-colette"
+   - path: "./data/expositions/Trésors et secrets d’écriture. Manuscrits de la Bibliothèque nationale de France du Moyen Âge à nos jours.txt"
+     url: "https://www.bnf.fr/fr/agenda/tresors-et-secrets-decriture-manuscrits-de-la-bibliotheque-nationale-de-france-du-moyen-age"
